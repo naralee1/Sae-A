@@ -137,7 +137,7 @@ h3 {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(/img/mainvisual1.png) no-repeat;
+  background: url(../img/mainvisual1.png) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -155,7 +155,7 @@ h3 {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(/img/mainvisual2.jpg) no-repeat;
+  background: url(../img/mainvisual2.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -196,7 +196,7 @@ h3 {
   }
 }
 #business .business_container ul li.trading {
-  background: url(/img/trading2.avif);
+  background: url(../img/trading2.avif);
   background-size: cover;
   background-position: center;
   overflow: hidden;
