@@ -126,31 +126,31 @@ $(".society_charac div").mouseleave(function () {
 });
 $(".society_charac .vision").mouseenter(function () {
   $(".society_container").css({
-    background: "url(../img/society.png) center/cover",
+    background: "url(./img/society.png) center/cover",
     transition: "background 1s",
   });
 });
 $(".society_charac .group").mouseenter(function () {
   $(".society_container").css({
-    background: "url(../img/society2.png) center/cover",
+    background: "url(./img/society2.png) center/cover",
     transition: "background 1s",
   });
 });
 $(".society_charac .career").mouseenter(function () {
   $(".society_container").css({
-    background: "url(../img/society5.png) center/cover",
+    background: "url(./img/society5.png) center/cover",
     transition: "background 1s",
   });
 });
 $(".society_charac .env").mouseenter(function () {
   $(".society_container").css({
-    background: "url(../img/society3.png) center/cover",
+    background: "url(./img/society3.png) center/cover",
     transition: "background 1s",
   });
 });
 $(".society_charac .eth").mouseenter(function () {
   $(".society_container").css({
-    background: "url(../img/society4.png) center/cover",
+    background: "url(./img/society4.png) center/cover",
     transition: "background 1s",
   });
 });
