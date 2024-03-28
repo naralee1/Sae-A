@@ -131,7 +131,6 @@ h3 {
   height: 100vh;
 }
 .main_visual_wrap .swiper-slide {
-  border: 1px solid #0cbc2f;
 }
 .main_visual_wrap .swiper-slide.slide1 {
   display: flex;
