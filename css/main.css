@@ -1,3 +1,4 @@
+
 @charset 'utf-8';
 
 :root {
@@ -777,7 +778,6 @@ h3 {
     font-size: 20px;
     font-weight: bold;
     transition: all 1s;
-    margin-bottom: 1;
     text-align: center;
   }
   #society .society_charac div p {
